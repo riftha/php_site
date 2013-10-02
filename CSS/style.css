@@ -1,0 +1,168 @@
+body {
+background-color:#f1f1f1;
+font-family: georgia,sans-serif;
+color:#333;
+margin:0;
+padding:0;
+}
+ 
+#wrapper {
+width:960px;
+background-color:#f8f8f8;
+margin:0 auto;
+border-left:1px solid #ccc;
+border-right:1px solid #ccc;
+}
+
+#header {
+width:960px;
+height:150px;
+margin:0 auto;
+margin-bottom:25px;
+border-bottom:1px solid #ccc;
+border-top:1px solid #ccc;
+background-color: blue;
+}
+
+#header h2 {
+padding:10px;
+}
+
+#header h3 {
+padding:10px;
+}
+
+#nav {
+width:960px;
+height:40px;
+border-bottom:1px solid #ccc;
+
+
+}
+
+#nav a {
+display:inline;
+padding:10px;
+text-decoration:none;
+background-color:#f1f1f1;
+color:green;
+}
+
+#nav a:hover {
+background-color:#bababa;
+height:80px;
+}
+
+#content {
+width:675px;
+float:left;
+padding:10px;
+color:#06378E;
+}
+
+#sidebar {
+width:200px;
+float:right;
+margin-bottom:25px;
+color:white;
+}
+
+#sidebar a {
+text-decoration:none;
+color:white;
+}
+
+#sidebar li {
+list-style:none;
+
+}
+
+#footer {
+clear:both;
+width:960px;
+height:55px;
+border-top:1px solid #ccc;
+background-color: blue;
+color: white;
+background-image: url("../images/footer1.jpg");
+background-repeat: repeat-x;
+}
+
+#footer p {
+padding:10px;
+
+}
+#hm1{
+    color:red;
+}
+#error{
+    color:red;
+}
+#form{
+   
+}
+
+#twitter{
+border:10px solid  lightslategray;
+border-radius:25px;
+float: right;
+}
+
+#operating{
+border:2px solid lightseagreen;
+background:blue;
+width:186px;
+border-radius:20px;
+padding: 5px;
+
+}
+#about{
+  border:2px solid lightseagreen;
+background:blue;
+width:186px;
+border-radius:25px;
+padding: 5px;  
+
+
+}
+#link{
+ border:2px solid lightseagreen;
+background:blue;
+width:186px;
+border-radius:25px;
+padding: 5px;  
+
+}
+#portfolio{
+  border:2px solid lightseagreen;
+background:blue;
+width:186px;
+border-radius:25px;
+padding: 5px;  
+
+}
+#search{
+    float: right;
+    border-radius: 10px;
+}
+#buttoncolor{
+    background-color:#3366FF ;
+    color: white;
+    padding: 8px;
+    border-radius:5px;
+    width: 80px;
+}
+#btn{
+    color: black;
+    padding: 8px;
+    border-radius:5px;
+    width: 80px;
+    background-color: darkgrey;
+        
+}
+#searchbtn{
+    padding:2px;
+    border-radius: 2px;
+    background-color: white;
+    
+}
